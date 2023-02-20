@@ -1,0 +1,40 @@
+/* p {
+    border-style: dotted;
+    width: 300px;
+}
+h1 {
+    border-style:double;
+} */
+
+/* p {
+    border-style:solid;
+    border-width: 5px 20px;
+    border-color: red;
+}
+h1 {
+    border-style:double;
+    border-width: medium;
+    border-color: rgb(190, 44, 44);
+} */
+
+/* p {
+    border-style:solid;
+    border-width: 25px 10px 4px 35px;
+    border-color: red green blue yellow;
+} */
+
+/* p {
+    border-top-style:dotted;
+    border-bottom-style:solid;
+    border-right-style: dotted;
+    border-left-style:solid;
+} */
+
+/* p {
+    border: 5px solid red;
+} */
+p {
+    border-width: 5px;
+    border-style:solid;
+    border-color:red;
+}

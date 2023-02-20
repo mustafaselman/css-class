@@ -1,0 +1,33 @@
+/* h1 {
+    width: 800px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left:80px;
+    border: 1px solid black;
+    margin-left:30px;
+} */
+
+/* h1 {
+    padding: 50px 30px 50px 80px;
+} */
+
+h1 {
+    width: 500px;
+    background-color:yellow;
+}
+h2 {
+    width:200px;
+    padding: 15px;
+    background-color: blue;
+    box-sizing:border-box;
+}
+* {
+    box-sizing:border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+p:not(.large) {
+    color:red;
+}
