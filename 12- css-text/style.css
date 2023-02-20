@@ -15,6 +15,9 @@ div {
 div img {
     vertical-align: text-top;
 }
+div {
+    
+}
 
 /* <sub> -> vertical-align: sub;font-size:smaller; */
 /* <sup> -> vertical-align: super;font-size:smaller; */
