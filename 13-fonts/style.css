@@ -1,0 +1,33 @@
+/* h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+}
+
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:700;
+}
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-variant:small-caps;
+
+}
+
+p.fontsize1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:48px;
+}
+p.fontsize2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:3rem;
+}
+p.fontsize3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5vw;
+} */
+
+p {
+    font: italic small-caps bold 1rem 
+}
+/* font:font-style(required),font-variant(required),font-weight,font-size/line-height,font-family */

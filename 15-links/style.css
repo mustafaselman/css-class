@@ -1,0 +1,25 @@
+a:link {
+    color:red;
+    text-decoration: none;
+    background-color: yellow;
+}
+a:visited {
+    color:green;
+    text-decoration: none;
+    background-color: cyan;
+}
+a:hover {
+    color:hotpink;
+    text-decoration: underline;
+    background-color:lightgreen;
+}
+a:active {
+    color:blue;
+    text-decoration: underline;
+    background-color: hotpink;
+}
+
+/* 
+a:hover , a:link ve a:visited sonrasında yazılmalıdır 
+a:active , a:hover sonrasında yazılmalıdır.
+*/

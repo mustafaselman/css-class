@@ -1,0 +1,40 @@
+/* li {
+    display:inline;
+} */
+
+/* span {
+    display:block;
+} */
+
+/* h1.hidden {
+    display:none;
+} */
+
+/* h1.hidden {
+    visibility:hidden;
+} */
+
+span.a {
+    display: inline;
+    width:100px;
+    height:100px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color:yellow;
+}
+span.b {
+    display: inline-block;
+    width:100px;
+    height:100px;
+    padding: 5px;
+    border: 1px solid black;
+    background-color:yellow;
+}
+span.c {
+    display: block;
+    width:100px;
+    height:100px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color:yellow;
+}

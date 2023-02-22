@@ -1,23 +1,94 @@
-h1 {
+/* h1 {
     color: green;
     background-color: lightgray
 }
 
 div {
     border: 1px solid black;
-    padding:10px;
+    padding:5px;
     width:250px;
     height:250px;
-    text-align:left;
-    text-align-last: center;
+    text-align:center;
+    text-align-last: right;
 }
 
 div img {
-    vertical-align: text-top;
+    vertical-align: text-bottom;
 }
 div {
     
-}
+} */
 
 /* <sub> -> vertical-align: sub;font-size:smaller; */
 /* <sup> -> vertical-align: super;font-size:smaller; */
+
+/* h1 {
+    text-decoration-line:overline;
+    text-decoration-color: red;
+    text-decoration-style: double;
+    text-decoration-thickness: 5px;
+}
+
+h2 {
+    text-decoration-line:line-through;
+    text-decoration-color: blue;
+    text-decoration-style:dotted;
+    text-decoration-thickness: 50%;
+} */
+/* aynısı */
+/* h2 {
+    text-decoration: line-through blue dotted 50%
+} */
+
+/* <del> -> text-decoration: line-through
+<ins> -> text-decoration: underline
+*/
+
+/* h3 {
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
+} */
+/* 
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: lowercase;
+}
+
+div {
+text-transform:capitalize;
+} */
+
+/* div {
+    text-indent: 20px;
+} */
+/* div {
+    letter-spacing: 5px;
+} */
+/* div {
+   line-height: 3;
+} */
+/* div {
+    word-spacing:15px;
+} */
+/* div {
+   white-space: nowrap;
+} */
+
+/* h1 {
+    text-shadow: 2px 2px 5px red;
+} */
+
+/* h1 {
+    text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkblue;
+} */
+/* 
+span {
+    
+    writing-mode: vertical-lr;
+    color:red;
+    text-align:center;
+    height:100px;
+} */
