@@ -1,0 +1,24 @@
+/* p::first-line {
+    color: red;
+    font-variant: small-caps;
+}
+
+p::first-letter {
+    color:purple;
+    font-size: xx-large;
+} */
+
+p::before {
+    content: "paragraf başlamadan yazılacak metin";
+    color:blue;
+}
+
+p::after {
+    content: "paragraf biterken yazılacak metin";
+    color:red;
+}
+
+p::selection {
+    color:red;
+    background:yellow;
+}

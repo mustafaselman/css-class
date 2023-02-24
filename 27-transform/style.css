@@ -1,0 +1,75 @@
+/* div {
+    width:100px;
+    height:100px;
+    background-color:blue;
+    color:white;
+    text-align:center;
+    margin:20px;
+    padding:10px;
+    transition: all 2s;
+}
+
+div.a:hover {
+    width:200px;
+}
+div.b:hover {
+    background-color:white;
+    color:blue;
+}
+div.c:hover {
+    border: 10px solid black;
+    outline: 10px solid red;
+} */
+
+div {
+    width:100px;
+    height:100px;
+    background-color:blue;
+    color:white;
+    text-align:center;
+    margin:20px;
+    padding:10px;
+    transition: transform 2s;
+}
+
+/* div.transformx:hover {
+    transform: translateX(100px);
+}
+div.transformy:hover {
+    transform: translateY(100px);
+}
+div.transformxy:hover {
+    transform: translate(100px,-100px)
+} */
+
+/* div.transformx:hover {
+    transform: rotateX(360deg)
+}
+div.transformy:hover {
+    transform: rotateY(180deg)
+}
+div.transformxy:hover {
+    transform: rotate(360deg)
+} */
+
+
+
+/* div.transformx:hover {
+    transform: scaleX(2)
+}
+div.transformy:hover {
+    transform: scaleY(2)
+}
+div.transformxy:hover {
+    transform: scale(0.5,0.5)
+} */
+
+/* div.transformx:hover {
+    transform: skewX(20deg)
+}
+div.transformy:hover {
+    transform: skewY(20deg)
+}
+div.transformxy:hover {
+    transform: skew(20deg,20deg)
+} */
